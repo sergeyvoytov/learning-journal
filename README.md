@@ -5,3 +5,6 @@ Today I will learn.
  - Growth mindset
  - Sandbox learning
 
+
+definition of growth mindset
+>  growth mindset is good
