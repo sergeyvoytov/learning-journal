@@ -12,5 +12,5 @@ Today I will learn.
 ### Reminders to yourself of how to keep yourself in a growth mindset
 
 1. If feel lazy use 5 min rule 
-2. Take critisim and improve
-3. Don't step back- keep pushing
+2. Take critisim and **improve**
+3. Don't step back- *keep pushing*
