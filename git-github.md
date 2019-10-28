@@ -11,6 +11,7 @@ Files in Git can reside in three main states: committed, modified and staged.Dat
 In order to start using GIT we need to set it up. I would like to focus on the Linux set up since thats is the one I used.
 
 `$ sudo yum install git`
+
 Then we will establish nessesary settings:
 
 `git config --global user.name "Jane Smith"
