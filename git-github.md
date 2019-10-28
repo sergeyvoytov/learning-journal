@@ -8,3 +8,6 @@ Every single change applied to any file or directory is tracked by Git. And, as 
 Git is set up to greatly minimize the possibility of irreversible damage to files, such as accidentally lost data. Git makes it extremely difficult for a snapshot of your file that is committed to be lost.
 Files in Git can reside in three main states: committed, modified and staged.Data is securely stored in a local database. File has been changed but not committed to the database.
 
+In order to start using GIT we need to set it up. I would like to focus on the Linux set up since thats is the one I used. 
+``$ sudo yum install git``
+
