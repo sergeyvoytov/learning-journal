@@ -17,3 +17,13 @@ Then we will establish nessesary settings:
 `git config --global user.name "Jane Smith"
 git config --global user.email "example@email.com"`
 
+Then we Will run command to verify all the settings:
+
+`git config --list`
+
+And we could always use some help:
+
+`git help command`
+
+That's it for now.
+
